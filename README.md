@@ -96,6 +96,6 @@
 </div>
 
 <div align="left">
-    <b>Credits: <a href="https://github.com/learning-zone"></a></b>
+    <b> <a href="https://github.com/learning-zone">Credits: </a></b>
 </div>
 
