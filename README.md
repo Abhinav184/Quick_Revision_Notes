@@ -1,5 +1,4 @@
-## Spring Framework Annotations
-Credits : https://github.com/learning-zone
+## Spring Framework Annotations Quick Recap 
 
 |Sl.No| Annotation    | Description  |
 |-----|---------------|--------------|
@@ -94,5 +93,9 @@ Credits : https://github.com/learning-zone
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
+</div>
+
+<div align="left">
+    <b>Credits: <a href="https://github.com/learning-zone"></a></b>
 </div>
 
